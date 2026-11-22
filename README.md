@@ -1,5 +1,7 @@
 # AttendTrack
 
+**Live app:** [University Attendance Tracker](https://anurag-501.github.io/attendtrack/)
+
 AttendTrack is a personal college attendance tracker built with React, TypeScript, and Vite. It works without an account or backend. Subjects, opening counts, history, and theme are stored in the current browser using `attendtrack.v1` and `attendtrack.theme`.
 
 ## Run, test, and build
