@@ -1,0 +1,21 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.sites-open/
+.openai/
+
+# Secrets and machine-specific environment files
+.env
+.env.*
+!.env.example
+*.local
+
+# Personal tracker exports and local browser data
+*attendtrack-backup*.json
+*attendance-backup*.json
+*backup*.json
+*.attendtrack-backup
+browser-data/
+browser-profile/
+chrome-profile/
+playwright/.auth/
